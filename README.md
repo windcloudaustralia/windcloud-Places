@@ -3,7 +3,9 @@
 
 # Wind Cloud Australia - Places App
 
-Welcome to the official GitHub repo owned and operated by Wind Cloud Australia for our iOS/iPadOS/macOS app! We aim to provide hyper-local, accurate and real-time weather information, using our ever-expanding network of sensors.
+Welcome to the official GitHub repo owned and operated by Wind Cloud Australia for our iOS/iPadOS/macOS app, Places! The purpose of Places is to provide detail about each location. It will provide everything one wants to know about one location, and has a very nice map interface. 
+
+We aim to provide hyper-local, accurate and real-time weather information, using our ever-expanding network of sensors.
 
 Do you want to be apart of our TestFlight Team for our app? If so, email us [here](mailto:hello@windcloud.com.au)! You will get early access to the future of the WindCloud mobile and desktop apps, and your contribution will be vital to eradicate bugs as soon as possible.
 
